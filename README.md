@@ -8,6 +8,6 @@ A bold and interactive web app that showcases a vibrant collection of monkey-the
 - 🐒 **Unique NFT Display** : Explore a variety of custom-designed monkey NFTs.  
 - ✨ **Playful animations** : Each NFT is presented with engaging visual effects.  
 - 📱 **Responsive layout** : Smooth experience on all devices and screen sizes.  
-- 🌐 **Built with HTML, CSS, JavaScript** : Lightweight and efficient codebase.  
+- 🌐 **Built with HTML & CSS** : Lightweight and efficient codebase.  
 - 🎨 **Creative design** : Colorful and jungle-inspired aesthetic for visual delight.  
 - 🧩 **Easily extendable** : Add new NFTs or connect with smart contracts easily.
